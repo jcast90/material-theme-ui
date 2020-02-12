@@ -1,9 +1,10 @@
 {
-  "name": "material-app",
-  "version": "1.0.5",
+  "name": "material-theme-ui",
+  "version": "1.0.0",
   "description": "Material App - React Admin & Dashboard Template",
   "author": "Paul Laros <support@bootlab.io>",
-  "private": true,
+  "private": false,
+  "repository": "git://github.com/jcast90/material-theme-ui",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build"
