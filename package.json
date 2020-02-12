@@ -50,5 +50,8 @@
     "react-scripts": "3.3.0",
     "redux": "4.0.4",
     "styled-components": "4.4.1"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@jcast90"
   }
 }
